@@ -1,0 +1,6 @@
+action_id,project_id,description,owner,due_date,priority,status
+A-12,PRJ-7,Finalise vendor SLA,Meera,2026-10-10,High,Open
+A-15,PRJ-7,Update test plan,Ravi,2026-10-22,Medium,Open
+A-18,PRJ-7,Review UI integration,Kashish,2026-10-28,High,Open
+A-20,PRJ-7,Test meeting agent,Team,2026-10-30,High,Open
+A-21,PRJ-7,Prepare final report,Team,2026-11-02,Low,Done

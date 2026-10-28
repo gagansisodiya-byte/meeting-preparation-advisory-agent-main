@@ -1,0 +1,5 @@
+project_id,date,update,blocker
+PRJ-7,2026-10-24,Backend development has started,No
+PRJ-7,2026-10-25,API integration is in progress,Yes
+PRJ-7,2026-10-25,UI integration is pending,Yes
+PRJ-7,2026-10-26,Agent testing is required before deployment,No
